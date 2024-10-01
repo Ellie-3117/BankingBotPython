@@ -12,7 +12,7 @@ Chào mừng bạn đến với **BankingBot**, một bot tạo mã qr được 
 ##Link mời của bot
 
 ---
-##**Link mời** 
+## **Link mời** 
 
 **Link ở đây**:[Banking Bot](https://ptb.discord.com/oauth2/authorize?client_id=1279099748028256256)
 ---
