@@ -10,9 +10,11 @@ Chào mừng bạn đến với **BankingBot**, một bot tạo mã qr được 
 
 **BankingBot** là mã nguồn mở, được xây dựng với mục tiêu giúp các server Discord có thể quản lý và tạo mã QR chuyển khoản nhanh chóng. Nếu bạn đang tìm kiếm một bot có thể tích hợp tính năng ngân hàng vào server thì thử add bot vào server xem nhé!
 ##Link mời của bot
--**Link mời** :[Banking Bot](https://ptb.discord.com/oauth2/authorize?client_id=1279099748028256256)
----
 
+---
+##**Link mời** 
+**Link ở đây**:[Banking Bot](https://ptb.discord.com/oauth2/authorize?client_id=1279099748028256256)
+---
 ## 🔧 **Cách Cài Đặt**
 **Nếu Bạn muốn tự custom bot**
 1. **Tải xuống mã nguồn** của bot từ repository này.
